@@ -1,0 +1,20 @@
+Here are the detailed changes in the "Reduced_Cost_Estimate.csv" document:
+
+1. Estimate summary:
+   - Upfront cost: 180 USD (unchanged).
+   - Monthly cost: 6,310.329999999999 USD (reduced from 8,397.92 USD).
+   - Total 12 months cost: 75,903.96 USD (reduced from 100,955.04 USD).
+   - Currency: USD.
+   - Note: Includes upfront cost.
+
+2. Detailed Estimate:
+   - Each row in the "Detailed Estimate" section contains information about a specific AWS service and related costs.
+   - The information in each row includes:
+     + Group hierarchy: My Estimate.
+     + Region: US East (N. Virginia) (unchanged).
+     + Description: Description of the AWS service (unchanged).
+     + Service: Name of the AWS service (unchanged).
+     + Upfront cost, monthly cost, and total 12 months cost (changed).
+     + Currency: USD (unchanged).
+     + Status: Status of the service (unchanged).
+     + Configuration summary: Configuration parameters related to the service (unchanged).

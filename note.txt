@@ -1,0 +1,12 @@
+aws configure
+aws sts get-caller-identity
+
+username: Hoachbv23
+Pass: B@chvanhoach23
+
+
+Access key
+AKIAXMFWG2UCFW35ZYW7
+
+Secret access key
+6gx1+7utGbXpT7M7u81mNVm1UFQd0+7m3tBhwsZ0

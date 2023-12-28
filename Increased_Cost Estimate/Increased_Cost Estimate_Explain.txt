@@ -1,0 +1,15 @@
+Currently, there are two regions: US East (N. Virginia) and US East (Ohio).
+
+Based on the two geographical regions, US East (N. Virginia) and US East (Ohio), the file Increased_Cost Estimate.csv provides detailed information about services and costs associated with each region. Here is a simple analysis:
+
+US East (N. Virginia):
+
+Amazon Route 53 service: No upfront cost, monthly cost of 108.25 USD.
+Amazon CloudFront service: No upfront cost, monthly cost of 341.40 USD.
+Amazon Cognito service: No upfront cost, monthly cost of 5,274.25 USD.
+Amazon API Gateway service: No upfront cost, monthly cost of 1,015 USD.
+AWS Lambda service: No upfront cost, monthly cost of 684.79 USD.
+DynamoDB service: Provides options for capacity and table types, detailed costs are listed in the file.
+US East (Ohio):
+
+Offers similar services as US East (N. Virginia) with equivalent costs.
